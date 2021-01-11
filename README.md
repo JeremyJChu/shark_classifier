@@ -1,4 +1,4 @@
-# shark_classifier
+# Shark Classifier
 Project for FastAI, building and deploying a very basic shark classifer.
 Image classification between Great White, Tiger, and Hammerhead sharks with 92% accuracy. Only photos, no drawings.
 
